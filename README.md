@@ -2,7 +2,7 @@
 
 This is a [freeCodeCamp project](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice) for the Back End Development and APIs certification.
 
-Check out the [live app](url-shortener.spenalozacortes.repl.co).
+Check out the [live app](https://url-shortener.spenalozacortes.repl.co/).
 
 ## What I Learned
 - How to use the .env file.
